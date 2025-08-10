@@ -7,7 +7,7 @@ This project uses a **ResNet-18** model trained on **1750 images** taken from **
 
 **The Shirt Color and Eyeglasses Labels were manually annotated.**  
 
-### **Achieved accuracies:** **93.4%** eyeglasses, **80.9%** gender, **52.6%** shirt color.
+### **Achieved accuracies:** <mark>93.4%</mark> eyeglasses, <mark>80.9%</mark> gender, <mark>52.6%</mark> shirt color.
 
 ---
 
